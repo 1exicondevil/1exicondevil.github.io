@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataIndex battleScribeVersion="2.03" name="Gman&apos;s The Old World" indexUrl="https://1exicondevil.github.io/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+  <dataIndexEntries>
+    <dataIndexEntry filePath="G-man&apos;s The Old World.gstz" dataType="gamesystem" dataId="c90b-b4b3-8ab7-3d42" dataName="G-man&apos;s The Old World" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Ravening Hordes.catz" dataType="catalogue" dataId="146e-72de-bd3d-9852" dataName="Ravening Hordes" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Daemons of Chaos.catz" dataType="catalogue" dataId="91a9-8f3a-cc6e-2117" dataName="Daemons of Chaos" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Magic Items.catz" dataType="catalogue" dataId="b6d1-b4b9-f19c-34b1" dataName="Magic Items" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Beastmen Brayherds.catz" dataType="catalogue" dataId="9ab2-77b8-dd66-3fbf" dataName="Beastmen Brayherds" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Warriors of Chaos.catz" dataType="catalogue" dataId="9d77-2293-fea1-c4b2" dataName="Warriors of Chaos" dataBattleScribeVersion="2.03" dataRevision="1"/>
+  </dataIndexEntries>
+</dataIndex>
