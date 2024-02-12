@@ -2,7 +2,6 @@
 <dataIndex battleScribeVersion="2.03" name="G-man&apos;s The Old World" indexUrl="https://1exicondevil.github.io/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <dataIndexEntries>
     <dataIndexEntry filePath="G-man&apos;s The Old World.gstz" dataType="gamesystem" dataId="c90b-b4b3-8ab7-3d42" dataName="G-man&apos;s The Old World" dataBattleScribeVersion="2.03" dataRevision="1"/>
-    <dataIndexEntry filePath="Daemons of Chaos.catz" dataType="catalogue" dataId="91a9-8f3a-cc6e-2117" dataName="Daemons of Chaos" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Warriors of Chaos (Library).catz" dataType="catalogue" dataId="9d77-2293-fea1-c4b2" dataName="Warriors of Chaos (Library)" dataBattleScribeVersion="2.03" dataRevision="1"/>
   </dataIndexEntries>
 </dataIndex>
